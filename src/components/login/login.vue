@@ -70,7 +70,7 @@
                         <!-- <a class="btn btn-link" href="/password/reset">Forgot Your Password?</a>-->
                         </div>
                 </div>
-                {{isAuth}}
+           
             </div>
         </form>
     </div>
