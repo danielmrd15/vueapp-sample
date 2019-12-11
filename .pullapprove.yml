@@ -5,11 +5,6 @@ pullapprove_conditions:
   explanation: "Work in progress"
 groups:
   code:
-    reviewers:
-      users:
-      - username
-      teams:
-      - team-slug
     reviews:
       required: 2  # number of approvals required from this group
       request: 1  # number of review requests sent at a time
