@@ -3,3 +3,4 @@ pullapprove_conditions:
 - condition: "'WIP' in title"
   unmet_status: pending
   explanation: "Work in progress"
+groups:
