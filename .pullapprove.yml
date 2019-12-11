@@ -7,5 +7,7 @@ groups:
       request: 1  # number of review requests sent at a time
       request_order: random  # "random" or "given"
     labels:
+      # Each field is optional
       approved: "Code review approved"
-
+      pending: "Code review pending"
+      rejected: "Code review rejected"
